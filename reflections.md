@@ -1,7 +1,6 @@
 # The difference between UX Design and Web Development
-
-Link: https://uxmastery.com/the-difference-between-web-design-and-ux-design/
-Link: https://www.reddit.com/r/userexperience/
+https://uxmastery.com/the-difference-between-web-design-and-ux-design/
+https://www.reddit.com/r/userexperience/
 
 # What is UX? 
 
