@@ -1,5 +1,6 @@
 # Research / Reflections on UX Design
 
-Write your reflections here using [GFM (Github Flavored Markdown)](https://github.github.com/gfm/)
+# The difference between UX Design and Web Development
 
+https://uxmastery.com/the-difference-between-web-design-and-ux-design/
 
